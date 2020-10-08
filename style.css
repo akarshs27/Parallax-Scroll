@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+}
+header {
+    background-image: url('./images/back.svg');
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.container{
+    position: relative;
+}
+
+#scene {
+    height: 100vh;
+}
+
+.planet1 {
+    position: absolute !important;
+    left:69rem !important;
+    top:4.2rem !important;
+    
+}
+
+.planet2 {
+    position: absolute !important;
+    left: 20rem !important;
+    top: 10rem !important;
+}
+
+.planet3 {
+    position: absolute !important;
+    left: 7rem !important;
+    top: 18rem !important;    
+}
+
+.planet4 {
+    position: absolute !important;
+    left: 80rem !important;
+    top: 10rem !important;
+}
+
+.planet6 {
+    position: absolute !important;
+    left: 75rem !important;
+    top: 22rem !important;
+}
+
+.planet7 {
+    position: absolute !important;
+    left:5rem !important;
+    top:3rem !important
+}
+
+.astronaut {
+    position: absolute !important;
+    left: 44rem !important;
+    top: 25rem !important;
+}
